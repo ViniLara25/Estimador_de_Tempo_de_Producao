@@ -21,7 +21,7 @@ def calcular_produtividade():
         qtd_fl = int(qtd_fl_str)
 
         # Lógica de cálculo
-        comprimento = (valor * qtd_fl) / 68.63
+        comprimento = (valor * qtd_fl) / 140.3811
         hora = comprimento / 3600
         hora_inteiro = math.floor(hora)
 
