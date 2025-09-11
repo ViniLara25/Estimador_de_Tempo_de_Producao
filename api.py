@@ -29,4 +29,4 @@ minuto_inteiro = math.floor(minuto)
 segundo = (minuto-minuto_inteiro)*60
 segundo_inteiro = math.floor(segundo)
 
-print (f'O tempo de produção será: \n {hora_inteiro}:{minuto_inteiro}:{segundo_inteiro}')
+print (f'O tempo de produção será: \n {hora_inteiro}:{minuto_inteiro}:{segundo_inteiro} - (Horas:Minutos:Segundos)')
