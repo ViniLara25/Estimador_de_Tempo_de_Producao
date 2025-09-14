@@ -27,7 +27,7 @@ while True:
         break;
     except ValueError: print('Valor inválido, por favor, digite novaente: ');
 
-comprimento_desenho = (valor_desenho*qtd_fl)/91.2196
+comprimento_desenho = (valor_desenho*qtd_fl)/80.6214
 comprimento_corte = (valor*qtd_fl)/140.3811
 
 hora_corte = comprimento_corte/3600
