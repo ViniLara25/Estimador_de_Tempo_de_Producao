@@ -62,12 +62,6 @@ Esta ferramenta foi criada para resolver um problema prático: estimar com preci
     ```bash
     pip install -r requirements.txt
     ```
-
-4.  **Execute a aplicação:**
-    ```bash
-    python seu_arquivo_principal.py
-    ```
-
 ---
 
 ## 📄 Licença
