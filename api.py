@@ -1,3 +1,4 @@
+
 #Comprimento de lâmina da peça de amostra 98.353,319mm. Tempo gasto: 23 minutos e 56 segundos.
 
 import math
